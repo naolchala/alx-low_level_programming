@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE < processed.c
+gcc -E $CFILE < processed.c
