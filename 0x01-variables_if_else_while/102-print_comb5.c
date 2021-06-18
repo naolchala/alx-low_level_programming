@@ -19,7 +19,7 @@ int main(void)
 			{
 				for (y = 1; y < 10; y++)
 				{
-					if (x+y > i +j)
+					if (x + y > i + j)
 					{
 						putchar(i + '0');
 						putchar(j + '0');
